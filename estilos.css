@@ -63,3 +63,26 @@ h1 {
 .boton:hover {
     background-color: #005c99;
 }
+
+
+.pie-de-pagina {
+    background-color: #add8e6; /* Azul claro que combina con el fondo */
+    color: #333333;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #007acc; /* Borde azul oscuro para resaltar */
+}
+
+.pie-de-pagina a {
+    color: #005c99;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.pie-de-pagina a:hover {
+    text-decoration: underline;
+}
