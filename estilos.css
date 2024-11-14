@@ -65,7 +65,7 @@ h1 {
 }
 
 
-.pie-de-pagina {
+.pie {
     background-color: #add8e6; /* Azul claro que combina con el fondo */
     color: #333333;
     text-align: center;
@@ -77,12 +77,12 @@ h1 {
     border-top: 2px solid #007acc; /* Borde azul oscuro para resaltar */
 }
 
-.pie-de-pagina a {
+.pie a {
     color: #005c99;
     text-decoration: none;
     font-weight: bold;
 }
 
-.pie-de-pagina a:hover {
+.pie a:hover {
     text-decoration: underline;
 }
